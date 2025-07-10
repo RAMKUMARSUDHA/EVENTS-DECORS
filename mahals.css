@@ -1,0 +1,26 @@
+#third{
+    text-align: center;
+    padding-top: 20%;
+    font-size: 200%;
+    padding-top: 40%;
+    padding-left: 10%;
+    padding-right: 15%;
+    color: #1506e7;
+    font-size: 300%;
+    text-decoration: none;
+}
+h6{
+    padding-bottom:25px;
+
+}
+body{
+    background-image: url(./mahals.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#four{
+    color: #370aea;
+}
+.card-button{
+    color: rgb(7, 97, 176);
+}

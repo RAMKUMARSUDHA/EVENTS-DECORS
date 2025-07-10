@@ -1,0 +1,44 @@
+body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #7014cb;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 30px;
+        }
+        .rent-info, .contact-form {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ccc;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #c812d9;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        button {
+            background-color: #6a1b9a;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #4a0072;
+        }

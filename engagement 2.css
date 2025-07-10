@@ -1,0 +1,11 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/qKAYcsaa1ec/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGHIgZSg9MA8=&rs=AOn4CLAnURmk7OL-xC9i3mpClXriJXau2g);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#second{
+    text-align: center;
+    padding-top: 15%;
+    font-size: 150%;
+
+}

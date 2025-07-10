@@ -1,0 +1,21 @@
+
+#front{
+    text-align: center;
+    list-style: none;
+    padding-top: 5%;
+    font-size: 150%;
+
+}
+h1{
+    text-align: center;
+    padding-top: 15%;
+    padding-left: 0%;
+    pa
+}
+body{
+    background-image: url(./birthday\ back.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: auto ;
+}

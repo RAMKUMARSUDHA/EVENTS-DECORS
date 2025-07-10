@@ -1,0 +1,21 @@
+
+#front{
+    text-align: center;
+    list-style: none;
+    padding-top: 9%;
+    font-size: 150%;
+    padding-left: 10%;
+
+}
+h1{
+    text-align: center;
+    padding-top: 9%;
+    padding-left: 10%;
+}
+body{
+    background-image: url(./naming.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: auto ;
+}

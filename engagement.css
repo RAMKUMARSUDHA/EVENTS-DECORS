@@ -1,0 +1,23 @@
+
+#front{
+    text-align: center;
+    list-style: none;
+    padding-top: 0%;
+    font-size: 150%;
+    padding-left: 0%;
+    padding-right: 30%;
+
+}
+h1{
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 35%;
+}
+body{
+    background-image: url(./enggback.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: auto ;
+}

@@ -1,0 +1,20 @@
+
+#front{
+    text-align: center;
+    list-style: none;
+    padding-top: 10%;
+    font-size: 150%;
+
+}
+h1{
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 0%;
+}
+body{
+    background-image: url(./babyback1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: auto ;
+}
